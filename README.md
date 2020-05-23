@@ -14,6 +14,6 @@ redux-saga é uma biblioteca que foca em fazer os efeitos colaterais (ex: chamad
 
 ### Executando o projeto
 
-Para executar o projeto primeiro instale as dependências executando o comando `
+Para executar o projeto primeiro instale as dependências executando o comando 
 `yarn`, depois execute o comando `json-server.json -p 3333`, este comando serve para rodar um servidor fake, o parametro `p` diz em qual porta o servidor irá ser acessado, no caso a porta 3333;
-Feito isso rode o comando `yarn start`, e o projeto será executado em aba no seu navegador patrão.
+Feito isso rode o comando `yarn start`, e o projeto será executado em um aba no seu navegador patrão.
